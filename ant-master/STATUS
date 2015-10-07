@@ -1,0 +1,23 @@
+Apache Ant Status
+Last modified at 2014-05-26
+
+Release:
+    Current:        1.9.4  (in GIT Tag: ANT_194)
+    Maintenance:    1.9.x  (in GIT Branch: master)
+    Development:    1.9.5  (in GIT Branch: master)
+
+Assets:
+    DNS:                ant.apache.org
+
+    Mailing lists:      dev@ant.apache.org
+                        user@ant.apache.org
+
+    Web site:           http://ant.apache.org/
+
+    Repositories:       ant.git
+
+PMC Members
+ see http://ant.apache.org/contributors.html
+
+Committers:
+ see http://ant.apache.org/contributors.html
